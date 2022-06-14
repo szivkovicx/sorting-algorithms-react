@@ -2,7 +2,7 @@
   "name": "your-project-name",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://szivkovicx.github.io",
+  "homepage": "https://szivkovicx.github.io/sorting-algorithms-react/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
