@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.ff54d560.js",
-    "index.html": "/index.html",
-    "main.ff54d560.js.map": "/static/js/main.ff54d560.js.map"
+    "main.js": "/sorting-algorithms-react/static/js/main.ff54d560.js",
+    "index.html": "/sorting-algorithms-react/index.html",
+    "main.ff54d560.js.map": "/sorting-algorithms-react/static/js/main.ff54d560.js.map"
   },
   "entrypoints": [
     "static/js/main.ff54d560.js"
